@@ -1,5 +1,7 @@
 # MD-Quick-Move
 
+<img width="475" height="454" alt="image" src="https://github.com/user-attachments/assets/d9cdc025-55cc-4e6e-87f0-be67f8bf25a8" /> <br>
+
 <img width="315" height="174" alt="image" src="https://github.com/user-attachments/assets/8bb0bac2-16b9-41b6-bc89-cb5936207fcf" />
 
 Obsidianでデータを任意ディレクトリに1ボタンで移動させることができるプラグイン
