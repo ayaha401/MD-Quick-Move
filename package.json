@@ -1,0 +1,22 @@
+{
+	"name": "md-quick-move",
+	"version": "1.0.0",
+	"description": "Move the open file to a registered folder with one button.",
+	"main": "main.js",
+	"scripts": {
+		"dev": "node esbuild.config.mjs",
+		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+	},
+	"keywords": [
+		"obsidian",
+		"obsidian-plugin"
+	],
+	"author": "ayaha401",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "^22.0.0",
+		"esbuild": "^0.25.0",
+		"obsidian": "latest",
+		"typescript": "^5.6.0"
+	}
+}

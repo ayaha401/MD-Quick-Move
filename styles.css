@@ -1,0 +1,21 @@
+.md-quick-move-warning {
+	color: var(--text-error);
+	font-size: var(--font-ui-smaller);
+}
+
+.md-quick-move-warning:empty {
+	display: none;
+}
+
+.md-quick-move-target .setting-item-control {
+	flex-wrap: nowrap;
+}
+
+.md-quick-move-target .md-quick-move-name-input {
+	width: 8em;
+}
+
+.md-quick-move-target .md-quick-move-path-input {
+	flex: 1;
+	min-width: 12em;
+}

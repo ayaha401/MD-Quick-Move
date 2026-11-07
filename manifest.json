@@ -1,0 +1,9 @@
+{
+	"id": "md-quick-move",
+	"name": "MD-Quick-Move",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.10",
+	"description": "開いているファイルを、登録したフォルダへワンボタンで移動します。",
+	"author": "ayaha401",
+	"isDesktopOnly": true
+}
